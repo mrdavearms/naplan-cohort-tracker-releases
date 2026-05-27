@@ -13,6 +13,8 @@ No spreadsheets, no logins, and no student data ever leaves your machine.
 | **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.0/NAPLAN.Cohort.Tracker_1.0.0_universal.dmg)** |
 | **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.0/NAPLAN.Cohort.Tracker_1.0.0_x64-setup.exe)** |
 
+> **Year 3 → Year 5 (primary) is in beta.** Year 7 → Year 9 (secondary) is well-established; primary cohort tracking is new in this release and not yet validated against a wide range of real Year 3/5 files. Treat primary figures as provisional and check them against your source data. Primary leaders — please test it and email feedback to **dave.armstrong@education.vic.gov.au**.
+
 ### The first time you open it — please read
 
 These are free, unsigned builds, so your computer shows a **one-time** safety prompt. It's expected:
