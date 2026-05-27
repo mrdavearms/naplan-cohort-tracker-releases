@@ -1,17 +1,17 @@
-# Naplan Throughline — download
+# NAPLAN Cohort Tracker — download
 
 **On-device NAPLAN cohort analysis for schools.** See how the *same students* grew
-from Year 7 to Year 9 — clearly, on your own computer. No spreadsheets, no logins,
-and no student data ever leaves your machine.
+over two years — Year 3 to Year 5, or Year 7 to Year 9 — clearly, on your own computer.
+No spreadsheets, no logins, and no student data ever leaves your machine.
 
-## Download the app — version 0.2.3
+## Download the app — version 1.0.0
 
-> **Easiest:** open the **[download page](https://mrdavearms.github.io/naplan-throughline-releases/)** and click the big button for your computer.
+> **Easiest:** open the **[download page](https://mrdavearms.github.io/naplan-cohort-tracker-releases/)** and click the big button for your computer.
 
 | Computer | Download |
 |---|---|
-| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-throughline-releases/releases/download/v0.2.3/Naplan.Throughline_0.2.3_universal.dmg)** |
-| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-throughline-releases/releases/download/v0.2.3/Naplan.Throughline_0.2.3_x64-setup.exe)** |
+| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.0/NAPLAN.Cohort.Tracker_1.0.0_universal.dmg)** |
+| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.0/NAPLAN.Cohort.Tracker_1.0.0_x64-setup.exe)** |
 
 ### The first time you open it — please read
 
@@ -25,8 +25,9 @@ You only need to do this once.
 ## What it does
 
 Point it at a folder of your NAPLAN SSSR files. It shows participation, proficiency,
-equity and skill gaps, and tracks the **Year 7 -> Year 9 matched cohort** -- the closest
-thing to a true measure of your school's contribution -- then builds tidy PDF reports.
+equity and skill gaps, and tracks the **matched cohort across two years (Year 3 -> Year 5,
+or Year 7 -> Year 9)** -- the closest thing to a true measure of your school's contribution --
+then builds tidy PDF reports.
 
 **Private by design:** everything runs on your computer; no student names appear anywhere
 and nothing is uploaded.
