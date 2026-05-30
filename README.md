@@ -4,32 +4,32 @@
 over two years — Year 3 to Year 5, or Year 7 to Year 9 — clearly, on your own computer.
 No spreadsheets, no logins, and no student data ever leaves your machine.
 
-## Download the app — version 1.0.1
+## Download the app — version 1.1.0
 
 > **Easiest:** open the **[download page](https://mrdavearms.github.io/naplan-cohort-tracker-releases/)** and click the big button for your computer.
 
 | Computer | Download |
 |---|---|
-| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.1/NAPLAN.Cohort.Tracker_1.0.1_universal.dmg)** |
-| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.1/NAPLAN.Cohort.Tracker_1.0.1_x64-setup.exe)** |
+| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.1.0/NAPLAN.Cohort.Tracker_1.1.0_universal.dmg)** |
+| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.1.0/NAPLAN.Cohort.Tracker_1.1.0_x64-setup.exe)** |
 
 > **Early release — may not work properly.** This is an early release and is still being tested, so some figures or screens may not work as expected. Please check anything important against your source spreadsheets before you rely on it. (The Year 3 → Year 5 primary analysis is the newest and least-validated part, so treat primary figures as especially provisional.) Feedback is very welcome — **dave.armstrong@education.vic.gov.au**.
 
-### The first time you open it — please read
+### The first time you open it — please read (the security warning is normal)
 
-These are free, unsigned builds, so your computer shows a **one-time** safety prompt. It's expected:
+The first time anyone opens the app, Mac and Windows show a security warning, because it is a free, independent tool (not paid app-store signed). **This is normal and safe — it does NOT mean the app is broken.** You click through it once. (If your browser says the download is "not commonly downloaded" or tries to discard it, choose **Keep**.)
 
-- **Mac:** right-click (or Control-click) the app -> **Open** -> **Open** again.
-- **Windows:** if you see "Windows protected your PC", click **More info** -> **Run anyway**.
+- **Mac:** drag the app into **Applications**, then double-click it. macOS will say it "could not verify" the app (expected) — click **Done**. Then go to **System Settings -> Privacy & Security**, scroll down, and click **Open Anyway** next to the NAPLAN Cohort Tracker message; confirm with your fingerprint or Mac password. (On older Macs you can instead right-click the app -> **Open** -> **Open**.)
+- **Windows:** run the **setup .exe**; if you see "Windows protected your PC", click **More info** -> **Run anyway**.
 
-You only need to do this once.
+You only need to do this once; after that it opens normally.
 
 ## What it does
 
 Point it at a folder of your NAPLAN SSSR files. It shows participation, proficiency,
 equity and skill gaps, and tracks the **matched cohort across two years (Year 3 -> Year 5,
-or Year 7 -> Year 9)** -- the closest thing to a true measure of your school's contribution --
-then builds tidy PDF reports.
+Year 7 -> Year 9, or Year 5 -> Year 7 in a combined P-12 school)** -- the closest thing to a
+true measure of your school's contribution -- then builds tidy PDF reports.
 
 **Private by design:** everything runs on your computer; no student names appear anywhere
 and nothing is uploaded.
